@@ -32,4 +32,4 @@ Open `index.html` to see the result.
 
 ### Thanks
 
-Thanks to [Yiyi Sun](https://github.com/yysun) for [Apprun](http://apprun.js.org), [Webpack Core Team](https://github.com/webpack/webpack#core-teamm) for [Webpack](https://webpack.js.org) & [Microsoft](https://opensource.microsoft.com) for [TypeScript](https://www.typescriptlang.org).
+Thanks to [Yiyi Sun](https://github.com/yysun) for [Apprun](http://apprun.js.org), [Peter Hunnisett](https://github.com/phBalance) for [Apprun Router](https://github.com/phBalance/apprun-router), [Webpack Core Team](https://github.com/webpack/webpack#core-teamm) for [Webpack](https://webpack.js.org) & [Microsoft](https://opensource.microsoft.com) for [TypeScript](https://www.typescriptlang.org).
