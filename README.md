@@ -2,7 +2,7 @@
 
 A simple setup using [Apprun](https://github.com/yysun/apprun) & [Apprun Router](https://github.com/phBalance/apprun-router) together with [Webpack](https://webpack.js.org) written using [TypeScript](https://www.typescriptlang.org/).
 
-This is a based of the Apprun video tutorials [Building Applications with AppRun, Part 1 - Getting Started](https://www.youtube.com/watch?v=RuRmXEN2-xI) & [Building Applications with AppRun, Part 2 - Components](https://www.youtube.com/watch?v=qkP6HvZmhtY), but with added pretty URLs curtesy of Apprun Router.
+This is a based of the Apprun video tutorials [Building Applications with AppRun, Part 1 - Getting Started](https://www.youtube.com/watch?v=RuRmXEN2-xI) & [Building Applications with AppRun, Part 2 - Components](https://www.youtube.com/watch?v=qkP6HvZmhtY), but with added pretty URLs courtesy of Apprun Router.
 
 
 ## Usage
