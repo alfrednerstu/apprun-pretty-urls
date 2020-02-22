@@ -1,12 +1,12 @@
 import app, {Component} from 'apprun';
 
 export default class aboutComponent extends Component {
-  state = 'about';
+  state = 'About';
 
   view = (state) => {
     return <div>
       <h1>{state}</h1>
-      <a href="/contact" $prettylink>Contact</a>
+      <p>{state} us here</p>
     </div>
   }
 

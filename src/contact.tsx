@@ -1,12 +1,12 @@
 import app, {Component} from 'apprun';
 
 export default class contactComponent extends Component {
-  state = 'contact';
+  state = 'Contact';
 
   view = (state) => {
     return <div>
       <h1>{state}</h1>
-      <a href="/about" $prettylink>About</a>
+      <p>{state} us here</p>
     </div>
   }
 

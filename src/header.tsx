@@ -1,17 +1,21 @@
 import app, {Component} from 'apprun';
 
 export default class headerComponent extends Component {
-  state = 'header';
+  state = 'Apprun Pretty URLs';
 
   view = (state) => {
-    return <nav>
-      <a href='/'>Home</a>
-      <a href='/#contact'>Contact</a>
-      <a href='/#about'>About</a>
-    </nav>
+    return <div>
+      <h1>{state}</h1>
+      <nav>
+        <ul>
+          <li><a href='/' $prettylink>Home</a></li>
+          <li><a href='/contact' $prettylink>Contact</a></li>
+          <li><a href='/about' $prettylink>About</a></li>
+        </ul>
+      </nav>
+    </div>
   }
 
   update = {
-    '#header': state => state,
   }
 }
